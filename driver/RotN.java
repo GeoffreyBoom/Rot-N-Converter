@@ -16,7 +16,7 @@ import javax.swing.*;
 public class RotN extends JFrame implements ActionListener{
 	
     final int WIDTH = 400;
-    final int HEIGHT = 400;
+    final int HEIGHT = 370;
     final int TEXT_SIZE = 10;
     
 	private static boolean encodeBool = true;
